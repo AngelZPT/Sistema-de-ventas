@@ -1,0 +1,12 @@
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.Formularios.MenuPrincipal.resources
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\pedro\Desktop\Proyecto\Sistema\Sistema\obj\Debug\Sistema.pdb

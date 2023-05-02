@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Sistema.Formularios;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,9 +18,18 @@ namespace Sistema
             InitializeComponent();
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void btnentrar_Click(object sender, EventArgs e)
         {
+            MenuPrincipal mn = new MenuPrincipal();
+            mn.Show();
+        }
 
+        private void btnsalir_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Seguro que desea salir?", "Salir", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                Close();
+            }
         }
     }
 }
